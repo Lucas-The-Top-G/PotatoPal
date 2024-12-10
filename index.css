@@ -25,7 +25,8 @@
 body{
     margin: 0px;
     margin-bottom: 10px;
-    background-color: bisque;
+    background-color: rgb(153, 124, 89);
+    margin-top: 50px;
 }
 
 .column {
@@ -48,7 +49,7 @@ a:hover {
 ul {
     padding-left: 20px;
     margin: 0px;
-    list-style-position: outside;
+    list-style-position: inside;
 }
 
 li {
