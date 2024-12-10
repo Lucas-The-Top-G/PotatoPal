@@ -37,16 +37,6 @@ body{
     width: 50px;
 }
 
-a {
-    text-decoration: none;
-    color: black;
-}
-
-a:hover {
-    color: darkgoldenrod;
-    text-decoration:dotted;
-}
-
 ul {
     padding-left: 20px;
     margin: 0px;
