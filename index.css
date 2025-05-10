@@ -22,7 +22,7 @@ header {
 #spaced {
     display: flex;
     justify-content: space-between;  
-    background-color: burlywood;  
+    background-color: green;  
 }
 
 body{
