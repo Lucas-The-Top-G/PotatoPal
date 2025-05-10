@@ -7,7 +7,11 @@
 }
 
 .centerThis button {
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: green;
 }
 
 .mainContainer {
@@ -25,7 +29,7 @@
 body{
     margin: 0px;
     margin-bottom: 10px;
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
 }
 
 .column {
@@ -75,4 +79,13 @@ li {
     border: none;
     cursor: pointer;
     text-decoration: underline;
+}
+
+.infobox {
+    width: 100%;
+    background-color: white;
+}
+
+.infobox text {
+    font-size: 25px;
 }
