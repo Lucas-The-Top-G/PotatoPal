@@ -6,9 +6,6 @@
     margin: 1vw;
 }
 
-.centerThis button {
-    background-color: rgb(255, 255, 255);
-}
 
 header {
     background-color: green;
@@ -16,7 +13,6 @@ header {
 
 .mainContainer {
     height: 100vh;
-    background-color: bisque;
     padding: 8px;
 }
 
@@ -45,7 +41,7 @@ a {
 }
 
 a:hover {
-    color: darkgoldenrod;
+    color: rgb(64, 143, 69);
     text-decoration:dotted;
 }
 
@@ -72,17 +68,8 @@ li {
     color: red;
 }
 
-.conclustion-button {
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-color: darkgoldenrod;
-    border: none;
-    cursor: pointer;
-    text-decoration: underline;
-}
-
 .infobox {
-    width: 100%;
+    width: 45%;
     background-color: white;
 }
 
