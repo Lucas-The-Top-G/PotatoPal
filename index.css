@@ -12,8 +12,11 @@ header {
 }
 
 .mainContainer {
+    display: flex;
+    flex-direction: column;
     height: 100vh;
     padding: 8px;
+    -ms-flex-align: center;
 }
 
 #spaced {
