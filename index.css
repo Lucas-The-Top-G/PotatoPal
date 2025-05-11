@@ -90,6 +90,7 @@ li {
 }
 
 .small {
+    display: inline-block;
     width: 33%;
 }
 
