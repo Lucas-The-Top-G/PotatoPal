@@ -89,6 +89,10 @@ li {
     
 }
 
+.small {
+    width: 33%;
+}
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Lucas-The-Top-G/PotatoPal/Screenshot 2025-05-11 6.27.05 AM.png");
   height: 50%;
