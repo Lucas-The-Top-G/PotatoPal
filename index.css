@@ -85,6 +85,7 @@ li {
     grid-template-columns: 2;
     grid-template-rows: 2;
     margin-bottom: 10rem;
+    width: 100%;
     
 }
 
