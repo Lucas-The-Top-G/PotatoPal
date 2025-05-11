@@ -82,17 +82,13 @@ li {
 
 .menu {
     display: grid;
-    grid-template-columns: 2;
-    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
     margin-bottom: 10rem;
     width: 100%;
     
 }
 
-.small {
-    display: inline-block;
-    width: 33%;
-}
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Lucas-The-Top-G/PotatoPal/Screenshot 2025-05-11 6.27.05 AM.png");
